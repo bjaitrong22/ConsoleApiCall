@@ -11,6 +11,7 @@ Thumbs.db
 dist/
 coverage/
 .env
+EnvironmentVariables.cs
 obj 
 bin
 appsettings.json
